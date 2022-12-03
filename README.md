@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rizowan</h1>
 <h3 align="center">A Passionate Tech Enthusiast From Earth.</h3>
 
+
+<h4 align="center">🌱 I’m currently following **my passion.**</h1>
+<h4 align="center">📫 How to reach me: **rizowaan@gmail.com**</h1>
+
+ 
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>
+
 <br>
 
-- 🌱 I’m currently following **my passion.**
-
-- 📫 How to reach me: **rizowaan@gmail.com**
-
-<br>
-
-<img align="center" src="riz1raj.gif" alt="riz1raj" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,12 +61,25 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 
-<br>
+    
+    </td>
+   
+ <td>
+      # 📊 GitHub Stats:
+      ![](https://github-readme-stats.vercel.app/api?username=riz1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riz1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=riz1raj&label=Profile%20views&color=0e75b6&style=flat" alt="riz1raj" /> </p>
+      <img align="center" src="riz1raj.gif" alt="riz1raj"  /></a>
+</td>
+  </tr>
+ 
+</table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riz1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riz1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riz1raj&label=Profile%20views&color=0e75b6&style=flat" alt="riz1raj" /> </p>
+
+
+
+
+
 
 
 
