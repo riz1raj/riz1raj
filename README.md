@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizowan</h1>
-<u><h3 align="center">A Passionate Tech Enthusiast From Earth.</h3></u>
+<h3 align="center"><u>A Passionate Tech Enthusiast From Earth.</u></h3>
 <br>
 
 - 🌱 I’m currently following **my passion.**
