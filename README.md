@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizowan</h1>
 <h3 align="center">A Passionate Tech Enthusiast From Earth.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riz1raj&label=Profile%20views&color=0e75b6&style=flat" alt="riz1raj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riz1raj" alt="riz1raj" /></a> </p>
-
-<p align="left"> <a href="https://facebook.com/riz1raj" target="blank"><img src="https://img.shields.io/facebook/follow/riz1raj?logo=twitter&style=for-the-badge" alt="riz1raj" /></a> </p>
-
 - 🌱 I’m currently following **my passion.**
 
 - 📫 How to reach me **rizowaan@gmail.com**
