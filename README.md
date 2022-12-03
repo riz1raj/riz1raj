@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rizowan</h1>
-<h3 align="center">A Passionate Tech Enthusiast From Earth.</h3>
+#<h1 align="center">Hi 👋, I'm Rizowan</h1>
+#<h3 align="center">A Passionate Tech Enthusiast From Earth.</h3>
 
 <br>
 
