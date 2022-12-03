@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizowan</h1>
-<h3 align="center">A passionate tech enthusiast from Earth.</h3>
+<h3 align="center">A Passionate Tech Enthusiast From Earth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riz1raj&label=Profile%20views&color=0e75b6&style=flat" alt="riz1raj" /> </p>
 
