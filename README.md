@@ -54,7 +54,6 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=riz1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riz1raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riz1raj&label=Profile%20views&color=0e75b6&style=flat" alt="riz1raj" /> </p>
