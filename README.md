@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently following **my passion.**
 
-- 📫 How to reach me **rizowaan@gmail.com**
+- 📫 How to reach me: **rizowaan@gmail.com**
 
 <br>
 
