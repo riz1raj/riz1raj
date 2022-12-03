@@ -8,7 +8,8 @@
 - 📫 How to reach me: **rizowaan@gmail.com**
 
 <br>
-![](riz1raj.gif)
+
+<img align="center" src="riz1raj.gif" alt="riz1raj" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
