@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riz1raj" alt="riz1raj" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/riz1raj" target="blank"><img src="https://img.shields.io/twitter/follow/riz1raj?logo=twitter&style=for-the-badge" alt="riz1raj" /></a> </p>
+<p align="left"> <a href="https://facebook.com/riz1raj" target="blank"><img src="https://img.shields.io/facebook/follow/riz1raj?logo=twitter&style=for-the-badge" alt="riz1raj" /></a> </p>
 
 - 🌱 I’m currently following **my passion.**
 
