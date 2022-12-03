@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Tech Enthusiast From Earth.</h3>
 
 
-<h4 align="center">🌱 I’m currently following **my passion.**</h1>
-<h4 align="center">📫 How to reach me: **rizowaan@gmail.com**</h1>
+<h4 align="center">🌱 I’m currently following my passion.</h1>
+<h4 align="center">📫 How to reach me: rizowaan@gmail.com</h1>
 <p align="center"><img src="riz1raj.gif" alt="riz1raj"  width="400" height="400" /></p>
 
  
