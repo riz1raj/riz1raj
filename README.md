@@ -3,7 +3,7 @@
 
 
 <h4 align="center">🌱 I’m currently following my passion.</h1>
-<h4 align="center">📫 How to reach me: rizowaan@gmail.com</h1>
+<h4 align="center">📫 How to reach me: rizowaan@gmail.com <br> <br> https://riz1raj.github.io/ </h1>
 <p align="center"><img src="riz1raj.gif" alt="riz1raj"  width="400" height="400" /></p>
 
  
