@@ -1,3 +1,5 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=riz1raj&color=FAC151)
+
 <h1 align="center">Hi 👋, I'm Rizowan</h1>
 <h3 align="center">A Passionate Tech Enthusiast From Earth.</h3>
 
@@ -48,10 +50,11 @@
 <p align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+
 </p>
  
- 
- 
+
+
  
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=riz1raj&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
@@ -65,7 +68,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riz1raj&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riz1raj&label=Profile%20views&color=0e75b6&style=flat" alt="riz1raj" /> </p>
-<center>![](https://komarev.com/ghpvc/?username=riz1raj&style=flat)</center>
+
+
 
 
 
