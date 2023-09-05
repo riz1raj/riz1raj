@@ -65,6 +65,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riz1raj&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riz1raj&label=Profile%20views&color=0e75b6&style=flat" alt="riz1raj" /> </p>
+<center>![](https://komarev.com/ghpvc/?username=riz1raj&style=flat)</center>
 
 
 
